@@ -35,6 +35,6 @@
 
 ## Onde me encontrar
 
-[![Gmail Badge](https://img.shields.io/badge/-nikaciacarolinaboing@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikaciacarolinaboing@gmail.com)](mailto:nikaciacarolinaboing@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-JoseEnioSegundo-beige?style=flat-square&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/jose-enio-ardino-segundo-a02a64249)
+[![Gmail Badge](https://img.shields.io/badge/-jose.ardinoseg@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jose.ardinoseg@gmail.com)](mailto:jose.ardinoseg@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-JoseEnioSegundo-beige?style=flat-square&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/josé-enio-ardino-segundo-a02a64249)
 [![GitHub](https://img.shields.io/github/followers/JoseEnioSegundo?label=follow&style=social)](https://github.com/JoseEnioSegundo)
