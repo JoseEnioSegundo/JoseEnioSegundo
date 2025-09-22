@@ -10,4 +10,4 @@ Estudando Bacharelado em Sistemas de Informação.
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ## 📊 GitHub Stats
-![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula)
+![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseEnioSegundo&show_icons=true&theme=dracula)
