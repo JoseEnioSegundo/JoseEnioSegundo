@@ -1,24 +1,40 @@
-# Bem-vindo ao meu perfil do GitHub! 👋
+###  Bem-vindo ao meu perfil do GitHub!
 
-Eu sou desenvolvedor **Full Stack**  
-Estudando Bacharelado em Sistemas de Informação.
+<img src="https://github-readme-stats.vercel.app/api?username=nikaciaboing&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=86400" alt="ilustração do status do github" style="float:right;" width="400">
 
-## 🚀 Ferramentas e Tecnologias
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<img src="https://img.shields.io/static/v1?label=Overview&message=JoseEnioSegundo&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-## 📊 GitHub Stats
-![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseEnioSegundo&show_icons=true&theme=dracula)
+<p>Dev em Desenvolvimento</p>
+<p>Estudando Bacharelado em Sistemas de Informação no IFC - Instituto Federal Catarinense.</p>
 
-## Estou aprendendo 🚀
+##
+
+### Ferramentas e Tecnologias 🛠
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>                         
 </p>
 
+##
+
+### Estou aprendendo 🚀
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>    
+</p>
+
+##
+
+## Onde me encontrar
+
+[![Gmail Badge](https://img.shields.io/badge/-nikaciacarolinaboing@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nikaciacarolinaboing@gmail.com)](mailto:nikaciacarolinaboing@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-JoseEnioSegundo-beige?style=flat-square&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/jose-enio-ardino-segundo-a02a64249)
+[![GitHub](https://img.shields.io/github/followers/JoseEnioSegundo?label=follow&style=social)](https://github.com/JoseEnioSegundo)
