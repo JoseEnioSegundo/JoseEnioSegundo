@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou José Ênio 👋</h1>
+<h1 align="center">Olá, eu sou José Enio 👋</h1>
 
 <p align="center">
   💻 Estudante de Sistemas de Informação • Desenvolvedor em formação
