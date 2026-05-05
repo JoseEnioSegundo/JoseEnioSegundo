@@ -4,11 +4,6 @@
   💻 Estudante de Sistemas de Informação • Desenvolvedor em formação
 </p>
 
-<p align="center">
-  <a href="https://github.com/JoseEnioSegundo">
-    <img src="https://github-readme-stats.vercel.app/api?username=JoseEnioSegundo&show_icons=true&theme=transparent&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=00000000&hide_border=true" width="430"/>
-  </a>
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Full%20Stack-af552e?style=for-the-badge" />
